@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { randomNum } from '../src/random_Num.js';
+import { gameEven } from '../src/games/even.js';
 
-randomNum();
+gameEven();
